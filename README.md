@@ -1,1 +1,1 @@
-# sprites
+# sprites do jogo da certsys
